@@ -1,2 +1,2 @@
 # C-files
-A couple C functions and other things.
+A couple C functions and programs.
