@@ -5,7 +5,7 @@ int main()
     int n;
     printf("Find out whether a number is odd or even: ");
     scanf("%d", &n);
-    if(n%2 == 0){ // If N divided by 2 leaves results in a remainder of 0, then N is perfectly divisible by 2.
+    if(n%2 == 0){ // If N divided by 2 results in a remainder of 0, then N is perfectly divisible by 2.
                   // Thus, N is a even number. Even numbers always end with 0, 2, 4, 6, 8 etc...
         printf("%d is even", n);
     }
